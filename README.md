@@ -1,5 +1,5 @@
 # hello-quantum
-"Foundations of Programming" BSc individual project (my first programming project ever). Grade: 19.62/20
+"Foundations of Programming" BSc course individual project (my first programming project ever). Grade: 19.62/20
 
 This game is a command-line adaptation of IBM's Hello Quantum game - available on the [App Store](https://apps.apple.com/us/app/hello-quantum/id1378385003).
 
